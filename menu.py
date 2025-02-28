@@ -1,5 +1,3 @@
-
-
 import random
 
 # Exibindo o menu de dificuldades
